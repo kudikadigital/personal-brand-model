@@ -1,90 +1,54 @@
-# Model03 - Hudson Portfolio
+# Model04 - Luther Portfolio
 
-Model03 é um template elegante e minimalista para portfólios profissionais e blogs pessoais, ideal para designers e profissionais criativos. Com foco em SEO e performance, o template oferece uma experiência de navegação fluida e uma base de código limpa para personalizações. Este template é baseado no [Hudson da ThemeWagon](https://themewagon.com/themes/hudson/).
+Model04 é um template de portfólio de página única em HTML5 com um design moderno e fundo escuro, ideal para profissionais criativos que desejam destacar seus trabalhos. Este template é baseado no [Luther da ThemeWagon](https://themewagon.com/themes/luther/).
+
+## Descrição
+
+Luther é um template de site de portfólio com fundo escuro, facilitando o modo escuro. O template gratuito é amigável ao usuário e melhora o engajamento no seu site. É um tema amigável para desenvolvedores com uma base de código bem documentada. O design é otimizado para velocidade de página, proporcionando tempos de carregamento mais rápidos. Também é um tema otimizado para mecanismos de busca que ajuda a obter o ranking desejado. Além disso, é compatível com vários navegadores e funciona suavemente em todos os navegadores disponíveis.
 
 ## Características Principais
 
-- **Design One-Page**: Layout intuitivo em página única
-- **SEO Otimizado**: Estruturado para melhor ranqueamento
-- **Performance**: Carregamento rápido e baixa taxa de rejeição
-- **Código Limpo**: Fácil personalização e manutenção
+- **HTML5 & CSS3**: Estrutura moderna e estilização
+- **Hero Section**: Seção de destaque com links de mídia
+- **Menu Burger Colapsável**: Navegação intuitiva
+- **Barra de Navegação Fixa**: Acessibilidade melhorada
+- **Preloader**: Carregamento visualmente atraente
+- **Botão "Voltar ao Topo"**: Navegação facilitada
+- **Efeito Hover**: Interatividade aprimorada
+- **Slider de Depoimentos**: Exibição de feedbacks
+- **Botões de Chamada para Ação**: Engajamento do usuário
+- **Totalmente Responsivo**: Funciona em todos os dispositivos
+- **Links de Mídia do Portfólio**: Destaque de trabalhos
+- **Amigável para Desenvolvedores**: Código bem documentado
+- **Otimizado para SEO**: Melhor ranqueamento em buscas
+- **Compatível com Vários Navegadores**: Funciona em todos os navegadores
+- **Formulário de Inscrição em Newsletter Modal**: Captura de leads
 
-## Recursos Técnicos
+## Conteúdo Incluído
 
-### Interface
-- Hero section com imagem e cabeçalho
-- Barra de navegação fixa no topo
-- Botão "Voltar ao topo"
-- Rodapé detalhado
-- Efeitos hover
-- Botões CTA (Call-to-Action)
-
-### Componentes
-- Galeria de portfólio
-- Seção de depoimentos
-- Opção de download de CV
-- Favicon personalizado
-- Ícones e elementos visuais
+- **HTML & CSS**: Arquivos de estrutura e estilo
+- **Imagens de Demonstração**: Recursos visuais
+- **Arquivos Fonte JavaScript**: Funcionalidades interativas
+- **Bibliotecas & Plugins**: Funcionalidades adicionais
+- **Favicon**: Identidade visual
 
 ## Como Utilizar
 
 1. **Clone o Repositório**
    ```bash
-   git clone -b model03 https://github.com/seu-usuario/personal-brand-model.git
+   git clone -b model04 https://github.com/seu-usuario/personal-brand-model.git
    cd personal-brand-model
    ```
 
 2. **Personalize o Template**
-   - Edite o arquivo `index.html`
-   - Modifique os estilos em `assets/css/`
+   - Edite o arquivo `index.html` com suas informações
+   - Ajuste os estilos em `assets/css/style.css`
    - Atualize as imagens em `assets/img/`
 
 3. **Publique seu Site**
    - GitHub Pages
    - Netlify
    - Vercel
-
-## Estrutura de Arquivos
-
-```
-personal-brand-model/
-├── index.html
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── img/
-```
-
-## Tecnologias Utilizadas
-
-- **HTML5**: Estrutura semântica
-- **CSS3**: Estilos modernos
-- **JavaScript**: Interatividade
-- **Favicon**: Identidade visual
-
-## Compatibilidade
-
-- Design responsivo para todos os dispositivos
-- Testado nos principais navegadores:
-  - Chrome
-  - Firefox
-  - Safari
-  - Edge
-
-## Recursos Inclusos
-
-- Arquivo HTML principal
-- Arquivos CSS
-- JavaScript
-- Imagens de demonstração
-- Documentação
-
-## Otimizações
-
-- Velocidade de carregamento otimizada
-- Código bem documentado
-- Compatibilidade cross-browser
-- Mobile-friendly
 
 ## Suporte
 
