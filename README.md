@@ -73,5 +73,5 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## Contato
 
-Se tiver dúvidas ou precisar de suporte, entre em contato pelo e-mail: seuemail@dominio.com.
+Se tiver dúvidas ou precisar de suporte, entre em contato pelo e-mail: kudikadigital@gmail.com.
 
