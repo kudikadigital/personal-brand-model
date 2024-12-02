@@ -1,77 +1,82 @@
-# Personal Brand Model
+# iPortfolio - Template de Portfólio Criativo
 
-Este repositório é dedicado à criação de modelos de sites de marca pessoal, projetados para diferentes objetivos e estilos. Ele é dividido em até 6 branches específicas, cada uma correspondendo a um modelo exclusivo. Abaixo estão as informações detalhadas sobre o projeto e as instruções para uso.
+Este repositório contém o template iPortfolio, um modelo responsivo e moderno para portfólios criativos, ideal para freelancers, web designers, fotógrafos e outros profissionais criativos que desejam exibir seus trabalhos de forma impactante.
 
-## Objetivo do Repositório
+## Características Principais
 
-Fornecer templates otimizados e prontos para personalização, adequados para:
+- **One-Page Design**: Layout intuitivo com navegação lateral
+- **Responsividade Total**: Compatível com mobile, tablet e desktop
+- **Design Moderno**: Inclui preloader, carrossel e contadores dinâmicos
+- **Fácil Personalização**: Código limpo baseado em HTML5, CSS3 e Bootstrap 5
 
-- Criativos que desejam exibir seus trabalhos (portfólios).
-- Especialistas que buscam se posicionar como autoridades em seus campos.
-- Influenciadores digitais interessados em parcerias e integração de redes sociais.
+## Recursos Técnicos
 
-Cada branch contém um modelo funcional que pode ser clonado e ajustado conforme as necessidades.
+- Navegação lateral com dropdown
+- Formulário de contato funcional
+- Botões de chamada para ação (CTA)
+- SEO-friendly e otimizado para velocidade
+- Efeitos hover
+- Contadores animados
+- Carrossel de depoimentos
+- Sistema de tabs
+- Geolocalização
 
-## Estrutura do Repositório
+## Como Utilizar
 
-### Branches Disponíveis
+1. **Clone o Repositório**
+   ```bash
+   git clone -b model01 https://github.com/seu-usuario/personal-brand-model.git
+   cd personal-brand-model
+   ```
 
-O repositório possui as seguintes branches:
+2. **Configure e Personalize**
+   - Edite o arquivo `index.html` para seu conteúdo
+   - Personalize os estilos em `assets/css/style.css`
+   - Substitua as imagens em `assets/img/`
 
-- **model01**: Template para Portfólio Criativo.
-  - Focado na exibição de projetos visuais.
-  - Layout minimalista e moderno.
+3. **Publique seu Site**
+   - GitHub Pages
+   - Netlify
+   - Vercel
 
-- **model02**: Template para Especialista Autoridade.
-  - Posiciona o usuário como referência no mercado.
-  - Inclui seção para depoimentos e serviços.
+## Estrutura de Arquivos
 
-- **model03**: Template para Influenciador Digital.
-  - Integração com redes sociais.
-  - Ideal para criadores de conteúdo e freelancers.
+```
+personal-brand-model/
+├── index.html
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── img/
+```
 
-- **model04**: Template de Landing Page.
-  - Projetado para capturar leads e promover conversões.
-  - Simples, direto e eficaz.
+## Tecnologias Utilizadas
 
-- **model05**: Template para E-commerce Pessoal.
-  - Ideal para venda de produtos ou serviços próprios.
-  - Inclui funcionalidade de loja virtual.
+- **Bootstrap 5.3.3**: Framework CSS
+- **SwiperJS**: Carrossel de imagens
+- **Isotope**: Layouts dinâmicos
+- **Google Fonts**: Tipografia
 
-- **model06**: Template de Marca Pessoal Completa.
-  - Combina portfólio, serviços e blog.
-  - Design flexível para diversas aplicações.
+## Recursos Inclusos
 
-## Como Usar
-
-1. **Clone o Repositório**   ```bash
-   git clone https://github.com/seu-usuario/personal-brand-model.git
-   cd personal-brand-model   ```
-
-2. **Escolha a Branch Desejada**
-   - Para visualizar e trabalhar com um modelo específico, mude para a branch correspondente:     ```bash
-     git checkout model01  # Substitua 'model01' pela branch desejada     ```
-
-3. **Personalize o Modelo**
-   - Edite o HTML, CSS ou scripts conforme necessário.
-   - Substitua os textos e imagens pelos seus próprios conteúdos.
-
-4. **Visualize as Alterações**
-   - Utilize um servidor local ou abra os arquivos HTML diretamente no navegador para visualizar suas alterações.
-
-5. **Publique seu Site**
-   - Utilize plataformas como GitHub Pages, Netlify ou Vercel para hospedar o site.
-   - Siga as instruções da plataforma escolhida.
+- 1 Página HTML
+- Arquivos fonte CSS e JavaScript
+- Imagens de demonstração
+- Bibliotecas e plugins
 
 ## Contribuições
 
 Contribuições são bem-vindas! Para contribuir:
 
-1. Crie uma branch a partir de `main`.
-2. Faça as alterações necessárias.
-3. Abra um Pull Request detalhando as mudanças.
+1. Crie uma branch a partir de `model01`
+2. Faça suas alterações
+3. Envie um Pull Request
 
-## Contato
+## Licença
 
-Se tiver dúvidas ou precisar de suporte, entre em contato pelo e-mail: kudikadigital@gmail.com.
+Este template é baseado no iPortfolio e está disponível para uso pessoal e educacional. Para uso comercial, consulte as diretrizes do autor original.
 
+## Suporte
+
+Precisa de ajuda? Entre em contato:
+- Email: seuemail@dominio.com
