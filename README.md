@@ -1,49 +1,48 @@
-# MyResume - Template de Portfólio Profissional
+# Model03 - Hudson Portfolio
 
-MyResume é um template responsivo desenvolvido com Bootstrap 5, ideal para profissionais que desejam apresentar seu currículo e portfólio de forma moderna e elegante. Este template é baseado no [MyResume da ThemeWagon](https://themewagon.com/themes/myresume/), oferecendo uma experiência fluida tanto para desenvolvedores quanto para usuários finais.
+Model03 é um template elegante e minimalista para portfólios profissionais e blogs pessoais, ideal para designers e profissionais criativos. Com foco em SEO e performance, o template oferece uma experiência de navegação fluida e uma base de código limpa para personalizações. Este template é baseado no [Hudson da ThemeWagon](https://themewagon.com/themes/hudson/).
 
 ## Características Principais
 
-- **Design One-Page**: Layout estilo currículo em página única
-- **Responsividade Total**: Adaptável a todos os tamanhos de tela
-- **Performance Otimizada**: Carregamento rápido e baixa taxa de rejeição
-- **SEO-Friendly**: Estruturado para melhor ranqueamento em buscadores
+- **Design One-Page**: Layout intuitivo em página única
+- **SEO Otimizado**: Estruturado para melhor ranqueamento
+- **Performance**: Carregamento rápido e baixa taxa de rejeição
+- **Código Limpo**: Fácil personalização e manutenção
 
 ## Recursos Técnicos
 
 ### Interface
-- Menu burger responsivo
-- Hero header com imagem
+- Hero section com imagem e cabeçalho
+- Barra de navegação fixa no topo
 - Botão "Voltar ao topo"
+- Rodapé detalhado
 - Efeitos hover
 - Botões CTA (Call-to-Action)
-- Preloader personalizado
 
 ### Componentes
-- Barras de progresso
-- Contadores animados
-- Carrossel de depoimentos
-- Sistema de abas
-- Formulário de contato
-- Ícones de redes sociais
+- Galeria de portfólio
+- Seção de depoimentos
+- Opção de download de CV
+- Favicon personalizado
+- Ícones e elementos visuais
 
 ## Como Utilizar
 
 1. **Clone o Repositório**
    ```bash
-   git clone -b model02 https://github.com/seu-usuario/personal-brand-model.git
+   git clone -b model03 https://github.com/seu-usuario/personal-brand-model.git
    cd personal-brand-model
    ```
 
 2. **Personalize o Template**
-   - Modifique o `index.html` com suas informações
-   - Ajuste os estilos em `assets/css/style.css`
+   - Edite o arquivo `index.html`
+   - Modifique os estilos em `assets/css/`
    - Atualize as imagens em `assets/img/`
 
 3. **Publique seu Site**
-   - Deploy via GitHub Pages
-   - Hospedagem no Netlify
-   - Publicação no Vercel
+   - GitHub Pages
+   - Netlify
+   - Vercel
 
 ## Estrutura de Arquivos
 
@@ -58,47 +57,42 @@ personal-brand-model/
 
 ## Tecnologias Utilizadas
 
-- **Bootstrap 5.3.3**: Framework CSS
-- **HTML5 & CSS3**: Estrutura e estilos
-- **SASS**: Pré-processador CSS
+- **HTML5**: Estrutura semântica
+- **CSS3**: Estilos modernos
 - **JavaScript**: Interatividade
-- **SwiperJS**: Carrossel
-- **Isotope**: Layouts dinâmicos
-- **Google Fonts**: Tipografia
+- **Favicon**: Identidade visual
 
 ## Compatibilidade
 
-- Otimizado para dispositivos móveis (Mobile-First)
-- Compatível com principais navegadores:
+- Design responsivo para todos os dispositivos
+- Testado nos principais navegadores:
   - Chrome
   - Firefox
   - Safari
   - Edge
-  - Opera
-- Testado em dispositivos:
-  - Android
-  - iPhone
-  - iPad
 
 ## Recursos Inclusos
 
-- Página HTML principal
-- Arquivos fonte (CSS/JS)
-- Imagens demo
-- Bibliotecas e plugins
-- Documentação básica
+- Arquivo HTML principal
+- Arquivos CSS
+- JavaScript
+- Imagens de demonstração
+- Documentação
 
-## Créditos
+## Otimizações
 
-Este template é uma adaptação do [MyResume da ThemeWagon](https://themewagon.com/themes/myresume/), desenvolvido originalmente por BootstrapMade.
-
-## Licença
-
-Este template está disponível para uso pessoal e comercial, seguindo as diretrizes da licença original do MyResume.
+- Velocidade de carregamento otimizada
+- Código bem documentado
+- Compatibilidade cross-browser
+- Mobile-friendly
 
 ## Suporte
 
 Para suporte ou dúvidas:
 - Email: seuemail@dominio.com
 - Issues: GitHub Issues
+
+## Licença
+
+Este template está disponível para uso pessoal e comercial. Consulte o arquivo LICENSE para mais detalhes.
 
